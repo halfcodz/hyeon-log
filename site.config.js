@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "pang-log",
-    description: "개발자가 되기 위한 공부노트",
+    description: "개발자로 성장하기 위한 공부노트",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
