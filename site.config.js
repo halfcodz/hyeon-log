@@ -6,7 +6,7 @@ const CONFIG = {
     role: "컴퓨터공학과 3학년",
     bio: "궁금한 것, 만들고 싶은 것 전부 실현해보기",
     email: "kkr010128@icloud.com",
-    linkedin: "kkr010128",
+    linkedin: "",
     github: "kkr010128",
     instagram: "kk_0128_",
   },
