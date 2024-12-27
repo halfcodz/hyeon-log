@@ -3,8 +3,8 @@ const CONFIG = {
   profile: {
     name: "halfcodz",
     image: "/avatar.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "to be code master",
-    bio: "머리는 차갑게 가슴은 뜨겁게",
+    role: "To be a Code_Master",
+    bio: "일단 해보자",
     email: "jeongusrn@gmail.com",
     linkedin: "halfcodz",
     github: "halfcodz",
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "hyeon-log",
-    description: "welcome to morethan-log!",
+    description: "welcome to hyeon-log!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
